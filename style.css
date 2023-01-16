@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#button-container {
+  margin: 20px auto;
+}
+
+#surprise-container {
+  margin: 20px auto;
+  display: none;
+}
